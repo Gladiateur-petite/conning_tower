@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:conning_tower/generated/l10n.dart';
 import 'package:conning_tower/helper.dart';
-import 'package:conning_tower/main.dart';
+import 'package:conning_tower/app_state.dart';
 import 'package:conning_tower/pages/log_pages/battle_log_data_page.dart';
 import 'package:conning_tower/utils/objectbox.dart';
 import 'package:conning_tower/widgets/icons.dart';

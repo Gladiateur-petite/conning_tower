@@ -1,7 +1,7 @@
 import 'package:conning_tower/constants.dart';
 import 'package:conning_tower/generated/l10n.dart';
 import 'package:conning_tower/helper.dart';
-import 'package:conning_tower/main.dart';
+
 import 'package:conning_tower/pages/kancolle_listen_settings.dart';
 import 'package:conning_tower/pages/tasks_sheet.dart';
 import 'package:conning_tower/providers/generatable/settings_provider.dart';

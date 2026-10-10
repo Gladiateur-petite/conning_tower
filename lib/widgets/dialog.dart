@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:conning_tower/generated/l10n.dart';
-import 'package:conning_tower/main.dart';
+import 'package:conning_tower/app_state.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
