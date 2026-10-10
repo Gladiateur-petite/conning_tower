@@ -1,6 +1,6 @@
 import 'dart:developer';
 
-import 'package:conning_tower/main.dart';
+import 'package:conning_tower/app_state.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 
 import '../../../generated/l10n.dart';

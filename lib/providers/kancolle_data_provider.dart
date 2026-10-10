@@ -10,7 +10,7 @@ import 'package:conning_tower/models/feature/kancolle/squad.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:timezone/timezone.dart' as tz;
 
-import '../main.dart';
+import '../app_state.dart';
 
 final kancolleDataProvider = StateProvider<KancolleData>((ref) {
   final OperationQueue queue = OperationQueue(map: {

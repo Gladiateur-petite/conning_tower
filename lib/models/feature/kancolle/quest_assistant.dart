@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:conning_tower/main.dart';
+import 'package:conning_tower/app_state.dart';
 import 'package:conning_tower/models/data/kcsapi/get/member/get_member_quest_list_entity.dart';
 import 'package:conning_tower/models/feature/log/kancolle_log.dart';
 import 'package:conning_tower/models/feature/log/kancolle_quest_log.dart';

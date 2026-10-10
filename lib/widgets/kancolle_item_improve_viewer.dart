@@ -1,6 +1,6 @@
 import 'dart:developer';
 
-import 'package:conning_tower/main.dart';
+import 'package:conning_tower/app_state.dart';
 import 'package:conning_tower/models/data/ooyodo/akashi_schedule.dart';
 import 'package:conning_tower/providers/generatable/kancolle_item_data_provider.dart';
 import 'package:conning_tower/providers/generatable/kancolle_localization_provider.dart';

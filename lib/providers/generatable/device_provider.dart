@@ -1,4 +1,4 @@
-import 'package:conning_tower/main.dart';
+import 'package:conning_tower/app_state.dart';
 import 'package:easy_debounce/easy_throttle.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';

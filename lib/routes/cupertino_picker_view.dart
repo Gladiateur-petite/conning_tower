@@ -1,5 +1,5 @@
 import 'package:conning_tower/constants.dart';
-import 'package:conning_tower/main.dart';
+import 'package:conning_tower/app_state.dart';
 import 'package:conning_tower/providers/dashboard_controller.dart';
 import 'package:conning_tower/providers/generatable/settings_provider.dart';
 import 'package:conning_tower/widgets/cupertino_grouped_section.dart';

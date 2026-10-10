@@ -1,6 +1,6 @@
 import 'dart:developer';
 
-import 'package:conning_tower/main.dart';
+import 'package:conning_tower/app_state.dart';
 import 'package:conning_tower/models/data/kcsapi/kcsapi.dart';
 import 'package:conning_tower/models/feature/kancolle/battle_result.dart';
 import 'package:conning_tower/models/feature/log/kancolle_ship_log.dart';

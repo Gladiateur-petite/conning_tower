@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'dart:developer';
 import 'dart:io';
 
-import 'package:conning_tower/main.dart';
+import 'package:conning_tower/app_state.dart';
 import 'package:conning_tower/models/data/kcdata/quest_data.dart';
 import 'package:conning_tower/models/data/l10n/kancolle_localization.dart';
 import 'package:flutter/cupertino.dart';

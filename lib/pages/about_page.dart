@@ -1,7 +1,7 @@
 import 'package:conning_tower/constants.dart';
 import 'package:conning_tower/generated/l10n.dart';
 import 'package:conning_tower/helper.dart';
-import 'package:conning_tower/main.dart';
+import 'package:conning_tower/app_state.dart';
 import 'package:conning_tower/routes/functional_layer.dart';
 import 'package:conning_tower/providers/generatable/device_provider.dart';
 import 'package:conning_tower/widgets/icons.dart';

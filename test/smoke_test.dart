@@ -7,7 +7,7 @@
 
 import 'package:conning_tower/constants.dart';
 import 'package:conning_tower/generated/l10n.dart';
-import 'package:conning_tower/main.dart' as app_main;
+import 'package:conning_tower/app_state.dart' as app_main;
 import 'package:conning_tower/pages/tools_page.dart';
 import 'package:conning_tower/providers/generatable/settings_provider.dart';
 import 'package:flutter/cupertino.dart';

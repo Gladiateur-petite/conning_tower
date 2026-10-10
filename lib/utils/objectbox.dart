@@ -3,7 +3,7 @@ import 'dart:io';
 import 'dart:math';
 
 import 'package:conning_tower/helper.dart';
-import 'package:conning_tower/main.dart';
+import 'package:conning_tower/app_state.dart';
 import 'package:conning_tower/models/feature/log/kancolle_log.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:conning_tower/objectbox.g.dart';
